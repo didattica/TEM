@@ -16,5 +16,5 @@ __Si consiglia di partecipare muniti di portatile.__-->
 
 ### 24 Maggio 2019
 1. [Introduction](http://svel.to/18tu).
-2. [Asynchronous-Programming](http://svel.to/18tv), [TEST](http://svel.to/)
+2. [Asynchronous-Programming](http://svel.to/18tv)
 3. [Event-Loops](http://svel.to/18ty)
