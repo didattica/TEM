@@ -8,11 +8,11 @@ __Si consiglia di partecipare muniti di portatile.__-->
 ### 21 Maggio 2019
 
 1. [Informazioni su esame TEM](http://svel.to/18t4).
-2. [Functions](http://svel.to/18t5), [TEST](http://svel.to/)
-3. [Abstractions](http://svel.to/xxx)
-4. [Creating functions](http://svel.to/xxx)
-5. [Function overloading](http://svel.to/xxx)
-6. [Hooking](http://svel.to/xxx)
+2. [Functions](http://svel.to/18t5), [TEST](http://svel.to/18op)
+3. [Abstractions](http://svel.to/18tp)
+4. [Creating functions](http://svel.to/18tr)
+5. [Function overloading](http://svel.to/18ts)
+6. [Hooking](http://svel.to/18tt)
 
 ### 24 Maggio 2019
 1. [Introduction](http://svel.to/xxx).
