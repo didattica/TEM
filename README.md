@@ -15,6 +15,6 @@ __Si consiglia di partecipare muniti di portatile.__-->
 6. [Hooking](http://svel.to/18tt)
 
 ### 24 Maggio 2019
-1. [Introduction](http://svel.to/xxx).
-2. [Functions](http://svel.to/xxx), [TEST](http://svel.to/)
-3. [Abstractions](http://svel.to/xxx)
+1. [Introduction](http://svel.to/18tu).
+2. [Asynchronous-Programming](http://svel.to/18tv), [TEST](http://svel.to/)
+3. [Event-Loops](http://svel.to/18ty)
