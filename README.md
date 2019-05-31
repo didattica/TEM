@@ -36,7 +36,6 @@ Write a program in Processing using the following built-in functions:
 ```javascript
 rotate()
 translate()
-scale()
 pushMatrix()
 popMatrix()
 ```
