@@ -24,7 +24,7 @@ __Si consiglia di partecipare muniti di portatile.__-->
 1. Test relativa alla parte del Prof. Luca Didaci, [TEST] TODO
 2. Test relativa alla parte del Prof. Pierluigi Tuveri, [TEST]TODO
 
-### Prject
+### Project
 
 Write a program in Processing using the following built-in functions:
 
