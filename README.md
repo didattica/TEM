@@ -26,8 +26,8 @@ __Si consiglia di partecipare muniti di portatile.__-->
 
 ### Altri test
 
-1. Test relativa alla parte del Prof. Luca Didaci, [TEST] TODO
-2. Test relativa alla parte del Prof. Pierluigi Tuveri, [TEST]TODO
+1. Test relativa alla parte del Prof. Luca Didaci, [TEST](http://svel.to/196e)
+2. Test relativa alla parte del Prof. Pierluigi Tuveri, [TEST](http://svel.to/196f)
 
 ### Project
 
