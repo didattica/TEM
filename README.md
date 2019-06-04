@@ -44,3 +44,10 @@ An example of program could be:
 1. Clock which shows time with two moving hands
 2. The motion of a planet around the sun
 3. The motion of a pendulum
+
+### List of Successful Project
+
+| Name  | Project  |
+| ------------- | ------------- |
+| Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) |
+| Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  |
