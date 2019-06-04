@@ -51,3 +51,6 @@ An example of program could be:
 | ------------- | ------------- |
 | Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) |
 | Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  |
+|SaraMattana| <!--[https://SaraMattana.github.io/processing/](https://SaraMattana.github.io/processing/) --> |
+|Martina Cocco| <!-- martinacocco1 -->| 
+|Giorgia Piras|  <!-- GiorgiaPiras93 --> |
