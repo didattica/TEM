@@ -47,10 +47,10 @@ An example of program could be:
 
 ### List of Successful Project
 
-| Name  | Project  |
-| ------------- | ------------- |
-| Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) |
-| Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  |
-|SaraMattana| <!--[https://SaraMattana.github.io/processing/](https://SaraMattana.github.io/processing/) --> |
-|Martina Cocco| <!-- martinacocco1 -->| 
-|Giorgia Piras|  <!-- GiorgiaPiras93 --> |
+| Name  | Project  | Score |
+| ------------- | ------------- |------------- |
+| Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) | 18 |
+| Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  | 18 |
+|Sara Mattana| [https://SaraMattana.github.io/processing-1/](https://SaraMattana.github.io/processing-1/) | 18 | 
+|Martina Cocco| [https://martinacocco1.github.io/processing/](https://martinacocco1.github.io/processing/)| 18 |
+|Giorgia Piras|  <!-- GiorgiaPiras93 --> | |
