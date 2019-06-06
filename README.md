@@ -51,6 +51,10 @@ An example of program could be:
 | ------------- | ------------- |------------- |
 | Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) | 18 |
 | Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  | 18 |
-|Sara Mattana| [https://SaraMattana.github.io/processing-1/](https://SaraMattana.github.io/processing-1/) | 18 | 
-|Martina Cocco| [https://martinacocco1.github.io/processing/](https://martinacocco1.github.io/processing/)| 18 |
-|Giorgia Piras|  <!-- GiorgiaPiras93 --> | |
+| Sara Mattana | [https://SaraMattana.github.io/processing-1/](https://SaraMattana.github.io/processing-1/) | 18 | 
+| Martina Cocco | [https://martinacocco1.github.io/processing/](https://martinacocco1.github.io/processing/)| 18 |
+| Alessia Cossu | [https://alessiacossu1.github.io/processing/](https://alessiacossu1.github.io/processing/) | 18 |
+| Gloria Stara |[https://gloriastara.github.io/processing/](https://gloriastara.github.io/processing/) | 18 |
+| Gabriele Pitzianti |[https://gapitz.github.io/processing/](https://gapitz.github.io/processing/) | 18 |
+| Giorgia Piras | [https://giorgiapiras93.github.io/processing/](https://giorgiapiras93.github.io/processing/)| 18 |
+
