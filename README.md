@@ -1,7 +1,7 @@
 # TEM - Tecnologia dell'Elaborazione Multimediale (Processing)
 
 ## Avviso
-__L'esame scritto di Tecnologia dell'Elaborazione Multimediale è previsto per martedì 18 giugno, 2019, dalle ore 11:00 alle ore 13:00 in aula Turing.__
+__L'esame scritto di Tecnologia dell'Elaborazione Multimediale è previsto per martedì 18 giugno, 2019, dalle ore 11:00 alle ore 13:00 nell'aula Specchi.__
 <!--
 __Si consiglia di partecipare muniti di portatile.__-->
 
