@@ -58,3 +58,34 @@ An example of program could be:
 | Gabriele Pitzianti |[https://gapitz.github.io/processing/](https://gapitz.github.io/processing/) | 18 |
 | Giorgia Piras | [https://giorgiapiras93.github.io/processing/](https://giorgiapiras93.github.io/processing/)| 18 |
 
+### Lista di domande per l’esame orale in TEM (solo per gli studenti che non fanno lo scritto in inglese).
+
+L’esame orale di TEM consiste di 4 domande di cui tre sorteggiate dalla lista(*).
+
+La quarta domanda non è inclusa nella lista(*) e riguarda il linguaggio di programmazione Processing.
+
+La risposta alla domanda deve essere data in un tempo massimo di 5 minuti.
+
+Ogni risposta corretta vale 4/13 punti  (3.25 punti).
+
+
+#### (*) Lista domande TEM
+- Spiegare il concetto di astrazione in informatica.
+- Descrivere il termine stack o pila, in informatica.
+- Descrivere il termine coda o queue, in informatica.
+- Descrivere la differenza tra pila e coda in informatica.
+- Elencare e descriverere i tipi di dato in processing.
+- Spiegare il costrutto for in processing.
+- Spiegare il costrutto if/else in processing.
+- Spiegare la differenza tra funzione built-in e funzione user defined. 
+- Cosa sono gli hooks in informatica?
+- Cosa si intende in programmazione per overloading (o sovraccarico)?
+- Scrivere un programma in processing che calcola la superficie di un cerchio.
+- Descrivere un esempio di arte digitale realizzato con Processing.
+- Descrivere il modello di programmazione asincrona.
+- Spiegare il concetto di Event Loop (ciclo degli eventi o ciclo ad eventi).
+- Descrivere la funzione rotate() in processing.
+- Descrivere la funzione translate() in processing.
+- Descrivere la funzione scale() in processing.
+- Descrivere la funzione pushMatrix() e popMatrix() in processing.
+
