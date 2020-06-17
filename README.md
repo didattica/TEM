@@ -3,7 +3,7 @@
 ### Some Projects
 
 | Name  | Project  | 
-| ------------- | ------------- |------------- |
+| ------------- | ------------- |
 | Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) | 
 | Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  |
 | Sara Mattana | [https://SaraMattana.github.io/processing-1/](https://SaraMattana.github.io/processing-1/) |
