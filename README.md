@@ -1,5 +1,18 @@
 # TEM - Tecnologia dell'Elaborazione Multimediale (Processing)
 
+### List of Successful Project
+
+| Name  | Project  | Score |
+| ------------- | ------------- |------------- |
+| Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) | 18 |
+| Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  | 18 |
+| Sara Mattana | [https://SaraMattana.github.io/processing-1/](https://SaraMattana.github.io/processing-1/) | 18 | 
+| Martina Cocco | [https://martinacocco1.github.io/processing/](https://martinacocco1.github.io/processing/)| 18 |
+| Alessia Cossu | [https://alessiacossu1.github.io/processing/](https://alessiacossu1.github.io/processing/) | 18 |
+| Gloria Stara |[https://gloriastara.github.io/processing/](https://gloriastara.github.io/processing/) | 18 |
+| Gabriele Pitzianti |[https://gapitz.github.io/processing/](https://gapitz.github.io/processing/) | 18 |
+| Giorgia Piras | [https://giorgiapiras93.github.io/processing/](https://giorgiapiras93.github.io/processing/)| 18 |
+
 ## Avviso
 __L'esame scritto di Tecnologia dell'Elaborazione Multimediale è previsto per martedì 18 giugno, 2019, dalle ore 17:00 alle ore 17:30 nell'aula Turing.__
 <!--
@@ -45,18 +58,7 @@ An example of program could be:
 2. The motion of a planet around the sun
 3. The motion of a pendulum
 
-### List of Successful Project
 
-| Name  | Project  | Score |
-| ------------- | ------------- |------------- |
-| Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) | 18 |
-| Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  | 18 |
-| Sara Mattana | [https://SaraMattana.github.io/processing-1/](https://SaraMattana.github.io/processing-1/) | 18 | 
-| Martina Cocco | [https://martinacocco1.github.io/processing/](https://martinacocco1.github.io/processing/)| 18 |
-| Alessia Cossu | [https://alessiacossu1.github.io/processing/](https://alessiacossu1.github.io/processing/) | 18 |
-| Gloria Stara |[https://gloriastara.github.io/processing/](https://gloriastara.github.io/processing/) | 18 |
-| Gabriele Pitzianti |[https://gapitz.github.io/processing/](https://gapitz.github.io/processing/) | 18 |
-| Giorgia Piras | [https://giorgiapiras93.github.io/processing/](https://giorgiapiras93.github.io/processing/)| 18 |
 
 ### Lista di domande per l’esame orale in TEM (solo per gli studenti che non fanno lo scritto in inglese).
 
