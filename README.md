@@ -1,6 +1,6 @@
 # TEM - Tecnologia dell'Elaborazione Multimediale (Processing)
 
-### List of Successful Project
+### Some Projects
 
 | Name  | Project  | Score |
 | ------------- | ------------- |------------- |
