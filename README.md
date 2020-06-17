@@ -4,14 +4,15 @@
 
 | Name  | Project  | 
 | ------------- | ------------- |
-| Carolina Norfo  |  [https://CarolinaNorfo.github.io/processing/](https://CarolinaNorfo.github.io/processing/) | 
-| Martina Musu  | [https://martinamusu.github.io/processing/](https://martinamusu.github.io/processing/)  |
-| Sara Mattana | [https://SaraMattana.github.io/processing-1/](https://SaraMattana.github.io/processing-1/) |
-| Martina Cocco | [https://martinacocco1.github.io/processing/](https://martinacocco1.github.io/processing/)| 
+| Simone Casti | [https://s-casti97.github.io/processing/](https://s-casti97.github.io/processing/)| 
+| Gianca Mura |  [https://gimura.github.io/processing/](https://gimura.github.io/processing/) | 
+| Martina Pani  | [https://martinapani.github.io/processing/](https://martinapani.github.io/processing/)  |
+| Luigi Sanna | [https://luigisanna.github.io/processing/](https://luigisanna.github.io/processing/) |
+| Monica Zucca | [https://monica-star.github.io/processing/](https://monica-star.github.io/processing/)| 
 | Alessia Cossu | [https://alessiacossu1.github.io/processing/](https://alessiacossu1.github.io/processing/) | 
-| Gloria Stara |[https://gloriastara.github.io/processing/](https://gloriastara.github.io/processing/) | 
-| Gabriele Pitzianti |[https://gapitz.github.io/processing/](https://gapitz.github.io/processing/) | 
-| Giorgia Piras | [https://giorgiapiras93.github.io/processing/](https://giorgiapiras93.github.io/processing/)| 
+| M. Cappai |[https://mcappai92.github.io/processing/](https://mcappai92.github.io/processing/) | 
+| M Mereo |[https://youngcruel.github.io/processing/](https://youngcruel.github.io/processing/) | 
+
 
 ## Avviso
 __L'esame scritto di Tecnologia dell'Elaborazione Multimediale è previsto per martedì 18 giugno, 2019, dalle ore 17:00 alle ore 17:30 nell'aula Turing.__
